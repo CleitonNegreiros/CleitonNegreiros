@@ -1,7 +1,7 @@
 - 👋 Olá! Estou muito feliz que você está aqui vendo meus códigos🤓. Pode ficar à vontade para sugerir mudanças
 - ou usar qualquer um deles.
 - ❤️Eu gosto de café e de sair pra pedalar sem rumo por aí 🚴🗺️
-- 🌱No momento estou estudanto desenvolvimento web e dando alguns passos em Python, no momento
+- 🌱No momento estou estudanto desenvolvimento web e dando alguns passos em Python 🐍
 - Qualquer questão, ou conselho, ou se quiser tomar um café, pode mandar uma mensagem para mim no Linkedin: https://www.linkedin.com/in/cleiton-negreiros/, 
 - Ou então, se preferir, um email para cleitonnegreiros@yahoo.com.br
 - 
