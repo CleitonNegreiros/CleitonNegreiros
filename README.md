@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning web development, but I'm also taking some steps on Python🐍...
 - 📫 Any further questions, or advices, or invites ☕🌝... just DM me on Linkedin
 - Here's the link: https://www.linkedin.com/in/cleiton-negreiros/
-- 📫If you prefer, reach me on cleitonnegreiros@yahoo.com.br
+- 📫If you prefer, reach me at cleitonnegreiros@yahoo.com.br
 
 <!---
 CleitonNegreiros/CleitonNegreiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
