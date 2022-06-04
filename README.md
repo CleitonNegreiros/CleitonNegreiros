@@ -15,7 +15,7 @@
 - Here's the link: https://www.linkedin.com/in/cleiton-negreiros/
 - 📫If you prefer, reach me at cleitonnegreiros@yahoo.com.br
 
-[![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonNegreiros)](https://github.com/anuraghazra/github-readme-stats)
+[![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonNegreiros)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 <!---
 CleitonNegreiros/CleitonNegreiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
